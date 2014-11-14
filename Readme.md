@@ -1,8 +1,8 @@
-[![Build Status](https://circleci.com/gh/segmentio/integration-churnbee.png)](https://circleci.com/gh/segmentio/integration-churnbee)
+[![Build Status](https://circleci.com/gh/segmentio/integration-churnbee/tree/master.png?style=badge)](https://circleci.com/gh/segmentio/integration-churnbee/tree/master)
 
-# ChurnBee server-side integration.
+# integration-churnbee
 
-Write me...
+ChurnBee server-side integration for Segment.
 
 
 ## License
