@@ -29,8 +29,7 @@ describe('ChurnBee', function(){
       .endpoint('http://api.churnbee.com/v1')
       .channels(['server', 'mobile'])
       .ensure('message.userId')
-      .ensure('settings.apiKey')
-      .retries(2);
+      .ensure('settings.apiKey');
   });
 
   describe('.validate()', function(){
